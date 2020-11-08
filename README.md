@@ -3,7 +3,6 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 
 # Data
 Train.csv - Train data contaning various attributes to train the model
-
 Test.csv - Test data contaning various attributes to test the trained model
 
 # Required libraries
